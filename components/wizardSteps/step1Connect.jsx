@@ -22,9 +22,14 @@ const Step1Connect = (props) => {
 						Connect your wallet
 					</h1>
 					<p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium
-						quaerat expedita voluptate debitis, iste officiis esse. Ut
-						reprehenderit consectetur temporibus. doctor.
+						project code can be found on{' '}
+						<a
+							href="https://github.com/martinrojas/nextsteps_gasless-drop"
+							target="_blank"
+							rel="noreferrer"
+						>
+							GitHub
+						</a>
 					</p>
 				</div>
 				{address ? (
