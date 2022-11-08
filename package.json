@@ -1,32 +1,30 @@
 {
-  "name": "skunkworks_gasless-drop",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "@aws-amplify/ui-react": "^2.17.1",
-    "@thirdweb-dev/react": "^2.2.5",
-    "@thirdweb-dev/sdk": "^2.2.3",
-    "aws-amplify": "^4.3.22",
-    "clsx": "^1.1.1",
-    "ethers": "^5.6.5",
-    "logrocket": "^3.0.0",
-    "logrocket-react": "^5.0.1",
-    "next": "12.1.6",
-    "react": "18.1.0",
-    "react-dom": "18.1.0",
-    "react-icons": "^4.3.1"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.7",
-    "eslint": "8.14.0",
-    "eslint-config-next": "12.1.6",
-    "postcss": "^8.4.13",
-    "tailwindcss": "^3.0.24"
-  }
+	"name": "nextsteps_gasless-drop",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint"
+	},
+	"dependencies": {
+		"@thirdweb-dev/react": "^2.2.5",
+		"@thirdweb-dev/sdk": "^2.2.3",
+		"clsx": "^1.1.1",
+		"ethers": "^5.6.5",
+		"logrocket": "^3.0.0",
+		"logrocket-react": "^5.0.1",
+		"next": "12.1.6",
+		"react": "18.1.0",
+		"react-dom": "18.1.0",
+		"react-icons": "^4.3.1"
+	},
+	"devDependencies": {
+		"autoprefixer": "^10.4.7",
+		"eslint": "8.14.0",
+		"eslint-config-next": "12.1.6",
+		"postcss": "^8.4.13",
+		"tailwindcss": "^3.0.24"
+	}
 }
