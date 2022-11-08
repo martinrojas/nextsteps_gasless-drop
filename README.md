@@ -1,3 +1,7 @@
+#NFT Edition Drop using the ThirdWebSDK
+
+This is based on this [blog post](https://blog.thirdweb.com/guides/create-gasless-nft-drop/) in the basic.js, but with the index.js expanding more into a more complete workflow.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
