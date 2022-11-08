@@ -4,7 +4,7 @@ This is based on this [blog post](https://blog.thirdweb.com/guides/create-gasles
 
 ### demo
 
-[https://github.com/martinrojas/nextsteps_gasless-drop](https://github.com/martinrojas/nextsteps_gasless-drop)
+[https://nft.projects.martinrojas.dev/](https://main.d1w7bxjbusuhxe.amplifyapp.com/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
