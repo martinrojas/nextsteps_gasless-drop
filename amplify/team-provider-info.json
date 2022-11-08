@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify19aacaa595464-staging-162350-authRole",
+      "UnauthRoleArn": "arn:aws:iam::629753652970:role/amplify-amplify19aacaa595464-staging-162350-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::629753652970:role/amplify-amplify19aacaa595464-staging-162350-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify19aacaa595464-staging-162350-deployment",
+      "UnauthRoleName": "amplify-amplify19aacaa595464-staging-162350-unauthRole",
+      "StackName": "amplify-amplify19aacaa595464-staging-162350",
+      "StackId": "arn:aws:cloudformation:us-east-1:629753652970:stack/amplify-amplify19aacaa595464-staging-162350/bce8d360-d5fd-11ec-af74-0a87a2f68465",
+      "AmplifyAppId": "d1yiguytsb8cu9"
+    },
+    "categories": {
+      "auth": {
+        "skunkworksgaslessdrop": {}
+      }
+    }
+  }
+}
