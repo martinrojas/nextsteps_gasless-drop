@@ -9,8 +9,10 @@
 		"lint": "next lint"
 	},
 	"dependencies": {
+		"@aws-amplify/ui-react": "^2.17.1",
 		"@thirdweb-dev/react": "^2.2.5",
 		"@thirdweb-dev/sdk": "^2.2.3",
+		"aws-amplify": "^4.3.22",
 		"clsx": "^1.1.1",
 		"ethers": "^5.6.5",
 		"logrocket": "^3.0.0",
